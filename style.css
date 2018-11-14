@@ -15,10 +15,10 @@ figure {
 }
 
 #featured-property p {
-    margin: auto;
     width: 800px;
-    padding: 10px;
     text-align: center;
+    margin: auto;
+
 }
 
 nav a {
