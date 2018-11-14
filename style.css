@@ -10,8 +10,8 @@ header {
 
 }
 
-img {
-     justify-content: center;
+figure {
+     text-align: center;
 }
 
 #featured-property p {
