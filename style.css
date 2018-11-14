@@ -15,8 +15,8 @@ figure {
 }
 
 #featured-property p {
-  max-width: 800px;
-  text-align: center;
+  width: 800px;
+  justify-items: center;
 }
 
 nav a {
