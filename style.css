@@ -44,5 +44,8 @@ div {
   text-align: center;
   width: 25%;
   color: white;
-  list-style: white;
+}
+
+div li {
+  color:white;
 }
